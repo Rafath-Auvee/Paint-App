@@ -62,7 +62,7 @@ const Login = () => {
                 Hi 👋 Welcome to{" "}
               </h1>
               <p className="pr-3 text-base-content">
-                Marley Electronics. Please sign in to your account.
+                Auvee Paint App. Please sign in to your account.
               </p>
             </div>
           </div>
